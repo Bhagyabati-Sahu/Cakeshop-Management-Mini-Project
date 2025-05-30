@@ -10,4 +10,4 @@ The Cake Shop Management System is a mini project developed using Python that he
 - Generate Bills
 - Track Total Sales
 ## How to Run
- Clone : 
+ Clone the repository: git clone 
